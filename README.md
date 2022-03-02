@@ -15,6 +15,7 @@
 </tr>
 </table>
 
+<!--
 ## Stats 📈
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AurianDurand&theme=dracula&hide_border=true)
 <p align="center">
@@ -22,7 +23,7 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AurianDurand&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AurianDurand&theme=highcontrast&hide_border=true" alt="#your-username" />
 </p>
-
+-->
 
 <!--
 **AurianDurand/AurianDurand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
